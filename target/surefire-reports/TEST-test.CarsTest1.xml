@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="test.CarsTest1" time="7.472" errors="0" skipped="0">
+<testsuite tests="7" failures="0" name="test.CarsTest1" time="8.236" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib"/>
@@ -60,7 +60,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="test.CarsTest1" name="test1" time="0.445"/>
-  <testcase classname="test.CarsTest1" name="test2" time="0.198"/>
-  <testcase classname="test.CarsTest1" name="test3" time="0.119"/>
+  <testcase classname="test.CarsTest1" name="test1" time="0.441"/>
+  <testcase classname="test.CarsTest1" name="test2" time="0.203"/>
+  <testcase classname="test.CarsTest1" name="test3" time="0.095"/>
+  <testcase classname="test.CarsTest1" name="test4" time="0.285"/>
+  <testcase classname="test.CarsTest1" name="test5" time="0.664"/>
+  <testcase classname="test.CarsTest1" name="test6" time="0.213"/>
+  <testcase classname="test.CarsTest1" name="test7" time="0.854"/>
 </testsuite>
